@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on getting certified as a carpentries instructor.
+- 🔭 I’m a certified Carpentries instructor.
 - 🌱 I’m currently learning how to create and automate RNA Seq workflows.
 - 👯 I’m looking to collaborate on various bioinformatics projects.
 
