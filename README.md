@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m a certified Carpentries instructor.
-- 🌱 I’m currently learning how to create and automate RNA Seq workflows.
+- 🌱 I’m currently working on a Genome assembly and annotation project.
 - 👯 I’m looking to collaborate on various bioinformatics projects.
 
 - ⚡ Fun fact: I am a bioinformatics enthusiast
